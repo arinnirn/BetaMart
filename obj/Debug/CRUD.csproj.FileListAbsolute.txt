@@ -1,0 +1,11 @@
+D:\bootcamp\CRUD\obj\Debug\CRUD.csprojAssemblyReference.cache
+D:\bootcamp\CRUD\obj\Debug\CRUD.Form1.resources
+D:\bootcamp\CRUD\obj\Debug\CRUD.Properties.Resources.resources
+D:\bootcamp\CRUD\obj\Debug\CRUD.csproj.GenerateResource.cache
+D:\bootcamp\CRUD\obj\Debug\CRUD.csproj.CoreCompileInputs.cache
+D:\bootcamp\CRUD\bin\Debug\CRUD.exe.config
+D:\bootcamp\CRUD\bin\Debug\CRUD.exe
+D:\bootcamp\CRUD\bin\Debug\CRUD.pdb
+D:\bootcamp\CRUD\obj\Debug\CRUD.exe
+D:\bootcamp\CRUD\obj\Debug\CRUD.pdb
+D:\bootcamp\CRUD\obj\Debug\CRUD.data.resources
